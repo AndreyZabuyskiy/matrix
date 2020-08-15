@@ -1,0 +1,6 @@
+﻿  application.cpp
+  main.cpp
+  matrix.cpp
+  Создание кода...
+D:\Программирование\С++\ООП\Задание №9\matrix\matrix\main.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  matrix.vcxproj -> D:\Программирование\С++\ООП\Задание №9\matrix\Debug\matrix.exe
